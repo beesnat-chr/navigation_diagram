@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T17:20:45.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="IlI8H9tqgCjMGq7XOf2n" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T17:36:04.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="_7cdGjCNVs_4HIZJ_Fl7" version="20.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2253" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="J1l45sssmJnW3tVVoCgh-15" value="Is Authenticated" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="106" y="220" width="106" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4fdSsOL7fLNcWzEEq1Vb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-19" target="J1l45sssmJnW3tVVoCgh-21">
+        <mxCell id="4fdSsOL7fLNcWzEEq1Vb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-19" target="J1l45sssmJnW3tVVoCgh-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-19" value="Drawer Navigator" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -49,32 +49,32 @@
         <mxCell id="J1l45sssmJnW3tVVoCgh-21" value="Stack Navigator" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-205" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J1l45sssmJnW3tVVoCgh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-23" edge="1">
+        <mxCell id="J1l45sssmJnW3tVVoCgh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.607;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-23" edge="1" target="J1l45sssmJnW3tVVoCgh-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-95" y="640" as="targetPoint" />
+            <mxPoint x="-115" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1l45sssmJnW3tVVoCgh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-23" edge="1">
+        <mxCell id="J1l45sssmJnW3tVVoCgh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-23" edge="1" target="J1l45sssmJnW3tVVoCgh-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-25" y="660" as="targetPoint" />
+            <mxPoint x="-45" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1l45sssmJnW3tVVoCgh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-23" edge="1">
+        <mxCell id="J1l45sssmJnW3tVVoCgh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-23" edge="1" target="J1l45sssmJnW3tVVoCgh-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="640" as="targetPoint" />
+            <mxPoint x="25" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1l45sssmJnW3tVVoCgh-23" value="Tab Navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-85" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="J1l45sssmJnW3tVVoCgh-23" value="(Home - First stack screen ) - Always kept on the stack since menu item routes are pushed on top.&lt;br&gt;Tab Navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-132.5" y="550" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-28" value="My Loads Stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-135" y="640" width="70" height="60" as="geometry" />
+          <mxGeometry x="-175" y="680" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-29" value="Find Load Stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-45" y="660" width="50" height="60" as="geometry" />
+          <mxGeometry x="-72.5" y="710" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-30" value="My Offers Stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="15" y="640" width="70" height="60" as="geometry" />
+          <mxGeometry x="9" y="670" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-33" value="Menu Items" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-295" y="580" width="120" height="60" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="335" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-41" value="With this type of authentication flow, we will allow users to navigate to any of the menu items. &lt;br&gt;Menu items will &#39;push&#39; onto the stack and allow for navigating back, leaving the user where they &lt;br&gt;were(maintaining state and scroll position).&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-400" y="730" width="530" height="60" as="geometry" />
+          <mxGeometry x="-424" y="780" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
