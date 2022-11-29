@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T22:48:34.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="lMKvY1PhPeQMMPX60o0l" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T15:45:17.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="89fRgCnHahA74ByOLTzw" version="20.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2123" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-23" value="Tab Navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420.5" y="380" width="125.75" height="40" as="geometry" />
+          <mxGeometry x="420.76" y="375" width="125.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-28" value="My Loads Stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="366.75" y="475" width="70" height="60" as="geometry" />
@@ -55,10 +55,10 @@
           <mxGeometry x="458.63" y="475" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-30" value="My Offers Stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="546.5" y="475" width="70" height="60" as="geometry" />
+          <mxGeometry x="530" y="475" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1l45sssmJnW3tVVoCgh-33" value="Menu Items" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210.5" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="375" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7kUuREJTgGgoWbfZLAL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J1l45sssmJnW3tVVoCgh-34" target="B7kUuREJTgGgoWbfZLAL-33">
           <mxGeometry relative="1" as="geometry" />
@@ -119,11 +119,17 @@
         <mxCell id="B7kUuREJTgGgoWbfZLAL-35" value="Create username/password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-522" y="554.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B7kUuREJTgGgoWbfZLAL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7kUuREJTgGgoWbfZLAL-36" target="B7kUuREJTgGgoWbfZLAL-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B7kUuREJTgGgoWbfZLAL-36" value="Add TCode/personal information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-524" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B7kUuREJTgGgoWbfZLAL-51" value="&lt;font color=&quot;#000000&quot;&gt;Colors indicate&amp;nbsp;screen groups.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#fff;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="621" width="206" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B7kUuREJTgGgoWbfZLAL-67" value="Pin screen?" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000;fillColor=#CCFFFF;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-524" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
